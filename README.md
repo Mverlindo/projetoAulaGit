@@ -18,3 +18,5 @@
 #   git status | Apresenta os arquivos para adicionar
 #   git branch | Visualiza as branch
 #   git branch nome | Cria uma nova linha do tempo, separado do principal
+#   git checkout -b nome | Muda de branch, se não existir ele cria uma nova
+#
