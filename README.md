@@ -22,3 +22,6 @@
 #   git push origin dev:dev | sincroniza as branches locais e do git
 #   git push --set-upstream origin dev | envia as alteraçoes para o github
 #   git merge nome | une as duas branch
+#   git push origin --delete dev | apaga os dados do github
+#   git branch -d dev | apaga a branch local se der erro para
+#   git branch -D dev | apaga a branch de maneira forcada
