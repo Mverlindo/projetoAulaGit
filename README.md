@@ -10,3 +10,11 @@
 #   git push -u origin main | -u para sincronisar com o projeto remoto
 #   git branch -M main | Renomeia a branch principal
 #   git push -u origin main | Envia seu commit para a nuvem
+#   
+#   Comando Uteis
+#   git fetch | Verifica se tem alguma alteraçao dentro do repositorio
+#   git pull | Tras todos as alteraçoes feitas por todos dentro do projeto
+#   git log | 
+#   git status | Apresenta os arquivos para adicionar
+#
+#
