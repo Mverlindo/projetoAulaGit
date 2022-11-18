@@ -25,3 +25,4 @@
 #   git push origin --delete dev | apaga os dados do github
 #   git branch -d dev | apaga a branch local se der erro para
 #   git branch -D dev | apaga a branch de maneira forcada
+#   

@@ -1,0 +1,4 @@
+Bons nomes para commits
+Saber a hora de fazer um commits 
+    Comit geralmente quando finaliza a atividade ou WIP(Work in progress)
+Sempre dar um git pull antes de começar a trabalhar em um projeto que seja coletivo
