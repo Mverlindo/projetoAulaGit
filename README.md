@@ -16,5 +16,5 @@
 #   git pull | Tras todos as alteraçoes feitas por todos dentro do projeto
 #   git log | 
 #   git status | Apresenta os arquivos para adicionar
-#
-#
+#   git branch | Visualiza as branch
+#   git branch nome | Cria uma nova linha do tempo, separado do principal
