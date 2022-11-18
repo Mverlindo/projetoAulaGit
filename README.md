@@ -19,4 +19,6 @@
 #   git branch | Visualiza as branch
 #   git branch nome | Cria uma nova linha do tempo, separado do principal
 #   git checkout -b nome | Muda de branch, se não existir ele cria uma nova
-#
+#   git push origin dev:dev | sincroniza as branches locais e do git
+#   git push --set-upstream origin dev | envia as alteraçoes para o github
+#   git merge nome | une as duas branch
